@@ -1,0 +1,16 @@
+https://www.tutorialspoint.com/unix/shell_scripting.htm
+https://linuxize.com/post/bash-exit/
+https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables
+https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_07.html
+https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/
+https://www.theunixschool.com/2010/04/how-to-find-length-of-variable.html
+https://unix.stackexchange.com/questions/9468/how-to-get-the-char-at-a-given-position-of-a-string-in-shell-script
+https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/
+https://www.linuxjournal.com/content/bash-trap-command
+https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
+https://www.commandlinux.com/man-page/man1/nc.traditional.1.html
+https://www.binarytides.com/netcat-tutorial-for-beginners/
+https://www.tutorialspoint.com/unix/case-esac-statement.htm
+https://phoenixnap.com/kb/su-command-linux-examples
+https://www.geeksforgeeks.org/md5sum-linux-command/
+
